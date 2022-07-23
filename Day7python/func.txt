@@ -1,0 +1,10 @@
+# two types of function 
+# 1} user define function Eg: greet
+# 2} build in function eg: len() , range .
+
+
+n! = 1*2*3*....*n
+n! = [1*2*3*....n-1]*n
+n! = n * (n-1)!
+
+
